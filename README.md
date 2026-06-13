@@ -1,12 +1,31 @@
 # 💫 About Me:
-I am a student
 
+Halo! Saya Muhammad Haidar Fakhri, seorang pelajar kelas 10 yang memiliki ketertarikan besar dalam dunia **Pengembangan Game**, **Desain Grafis/Aset**, dan **Pemrograman**. 
+
+Di dunia digital, saya juga aktif berkarya secara independen menggunakan nama samaran **kazanaru**. Saya suka menantang diri untuk mempelajari logika mekanik game baru, melakukan otomatisasi sistem, serta mengeksplorasi keamanan aplikasi web.
+
+---
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/idar_24) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mhaidarfakhri@gmail.com) 
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
+<!-- Tetapkan baris kode lencana Instagram dan Email kamu di sini seperti pada image_15f1e8.png -->
 
+---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💻 Tech Stack & Tools:
+
+<!-- Tetapkan baris kode lencana C++, Python, PHP, JS, CSS3, Canva, Blender, Figma, dan Godot kamu di sini -->
+
+---
+
+## 📁 Proyek yang Sedang Dikembangkan:
+
+* 🕹️ **Coralism** – Sebuah game eksplorasi bertema lingkungan dengan grafis *pixel art* kustom yang dipublikasikan di itch.io.
+* 🛡️ **Operation: Green Shield** – Game bergenre *top-down military defense* di mana pemain bertugas mempertahankan markas dari serangan unit mekanik.
+* ⚔️ **Tankers** – Game pertempuran tank untuk PC yang dikendalikan menggunakan tombol WASD dan Spacebar.
+* 🐍 **Automated Scripts** – Pengembangan skrip otomatisasi kustom menggunakan Python (terutama *library* `requests`) untuk kebutuhan analisis jaringan dan audit keamanan web.
+
+---
+
+## 🎨 Desain & Aset Game:
+Selain menulis kode program, saya juga aktif mendesain dan membuat aset visual game sendiri, mulai dari pembuatan objek 3D, *user interface* (UI) game, hingga pembuatan *sprite* serta *tileset* berbasis *pixel art*.
