@@ -2,7 +2,7 @@
 
 Halo! Saya Muhammad Haidar Fakhri, seorang pelajar kelas 10 yang memiliki ketertarikan besar dalam dunia **Pengembangan Game**, **Desain Grafis/Aset**, dan **Pemrograman**. 
 
-Di dunia digital, saya juga aktif berkarya secara independen menggunakan nama samaran **kazanaru**. Saya suka menantang diri untuk mempelajari logika mekanik game baru, melakukan otomatisasi sistem, serta mengeksplorasi keamanan aplikasi web.
+Di dunia digital, saya juga aktif berkarya secara independen menggunakan nama samaran ** idarrr **. Saya suka menantang diri untuk mempelajari logika mekanik game baru, melakukan otomatisasi sistem, serta mengeksplorasi keamanan aplikasi web.
 
 ---
 
